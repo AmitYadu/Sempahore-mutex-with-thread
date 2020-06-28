@@ -7,3 +7,6 @@ If the queue is already full, the new customer simply leaves
 If the queue becomes empty, the outlet doors will be closed (service personel sleep)
 Whenever a customer arrives at the closed outlet, he/she needs to wake the person at the counter with a wake-up call
 
+
+Run service.cpp file using following command in terminal:
+g++ service.cpp -pthread
